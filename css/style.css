@@ -1,0 +1,70 @@
+body,html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+div#navbarResponsive ul li a{
+    color: #999;
+    padding: 0 7px;
+}
+
+div#navbarResponsive ul li a:hover{
+    color: #1f793E;
+    text-decoration: none;
+}
+
+.divider{
+   position: relative;
+   margin: 40px 0  ;
+   padding: 20px 0;
+}
+
+footer{
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding-top: 2rem;
+}
+footer a{
+    color: #d5d5d5;
+}
+hr.line_light{
+    border-top: 1px solid #d5d5d5;
+    width:75%;
+    margin-top: .8rem;
+    margin-bottom: .8rem;
+    
+}
+
+
+hr.line_light1{
+    border-top: 1px solid #112;
+    margin-top: -40px;
+    width:500px;     
+}
+
+.fas, .fab {
+    color: #206acc;
+    margin-left: 30px;
+}
+
+.fas:hover, .fab:hover {
+    color: #999999;
+    border: 1px dotted #112;
+    margin-left: 30px;
+}
+ 
+ h2 {
+    position: absolute;
+    text-align: center;
+    display: block;
+    margin-left: 29rem;
+} 
+
+ hr.line_light2{
+    border-top: 1px ridge #112;
+    margin-top: 40px;
+    width:500px;     
+}
